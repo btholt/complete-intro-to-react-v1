@@ -28,7 +28,7 @@ const initialState = {
 const mapStateToProps = (state) => ({ searchTerm: state.searchTerm, shows: data.shows })
 {% endhighlight %}
 
-Cool. Now these shows will available to any connected components. Let's go fix Details first.
+Cool. Now these shows will be available to any connected components. Let's go fix Details first.
 
 {% highlight javascript %}
 // bring in connector
