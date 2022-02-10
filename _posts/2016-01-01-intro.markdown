@@ -2,7 +2,7 @@
 title:  "Intro"
 ---
 
-**NOTE**: This is an older version of this workshop. See [here][readme] for more details.
+## **NOTE**: This is an older version of this workshop. Go to [The React Learning Path][react-path] to find the latest version of Complete Intro to React
 
 Welcome to _A Complete Intro to React_. The goal of this workshop is to get you full up to speed on modern development and give you an idea what it is like to develop an app in the React ecosystem.
 
@@ -13,3 +13,4 @@ In addition to React, we are going to be using node.js, express, redux, WebPack,
 Questions? Feel free to <a href="https://twitter.com/holtbt">tweet at me.</a> Corrections or concerns about this page? Please file an issue or make a pull request on <a href="https://github.com/btholt/complete-intro-to-react">the repo</a>.
 
 [readme]: https://github.com/btholt/complete-intro-to-react-v1/blob/gh-pages/README.md
+[react-path]: https://frontendmasters.com/learn/react/
