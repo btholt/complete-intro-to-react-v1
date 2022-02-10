@@ -1,4 +1,4 @@
-<h1>Go to <a href="https://frontendmasters.com/learn/react/">The React Learning Path</a> for the latest version of the Complete Intro to React course.</h1>
+<h1>Go to <a href="https://frontendmasters.com/learn/react/">The React Learning Path</a> to find the latest version of the Complete Intro to React course.</h1>
 
 Hi! This is version 1 of the Complete Intro to React. This is has been updated to use newer and shinier technologies. However this repo is still made available to you as this still teaches useful concepts. Feel free to head over to [the course website][new-page].
 
